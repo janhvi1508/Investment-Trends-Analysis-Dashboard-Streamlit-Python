@@ -16,16 +16,20 @@ Streamlit is widely used for real-time data exploration, interactive analytics, 
 
 ---
 
-# Objectives
+# About the Project
 This project was completed as part of my **Personal Project to enchance my skill**.  
 The objective was to analyze investment trends, financial behaviors, and investor preferences using **Python (Pandas, NumPy, Matplotlib, Plotly)** and build an **interactive dashboard in Streamlit**.
 
-## My Responsibilities
+## Objectives
 - **Data Cleaning & Transformation** – Used Pandas to preprocess and refine datasets  
 - **Exploratory Data Analysis (EDA)** – Generated descriptive statistics and key patterns  
 - **Building Interactive Dashboards** – Designed a Streamlit app for user-friendly exploration  
 - **Custom Calculations** – Implemented metrics and KPIs using Python functions  
 - **Investor Behavior Analysis** – Studied patterns based on gender, age, goals, and risk factors  
+
+> The below image showcases the dashboard.
+
+<img width="1437" height="835" alt="Screenshot 2025-08-09 142758" src="https://github.com/user-attachments/assets/73ab7df0-55f8-40b3-bcf8-46071a4193a8" />
 
 ---
 
