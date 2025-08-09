@@ -16,7 +16,7 @@ Streamlit is widely used for real-time data exploration, interactive analytics, 
 
 ---
 
-# About the Project & My Role
+# Objectives
 This project was completed as part of my **Personal Project to enchance my skill**.  
 The objective was to analyze investment trends, financial behaviors, and investor preferences using **Python (Pandas, NumPy, Matplotlib, Plotly)** and build an **interactive dashboard in Streamlit**.
 
@@ -55,35 +55,35 @@ The objective was to analyze investment trends, financial behaviors, and investo
 
 ---
 
-# Task Breakdown
+# Analitics Breakdown
 
-## Task 1: Data Exploration & Summary
+## Analysis 1: Data Exploration & Summary
 **Objective:**  
 - Understand dataset structure  
 - Summarize key statistics  
 
-## Task 2: Gender-Based Investment Analysis
+## Analysis 2: Gender-Based Investment Analysis
 **Objective:**  
 - Analyze investment trends based on gender differences  
 
-## Task 3: Investment Choices Based on Savings Objectives
+## Analysis 3: Investment Choices Based on Savings Objectives
 **Objective:**  
 - Identify preferred investment types for different financial goals  
 
-## Task 4: Investment Duration & Monitoring Analysis
+## Analysis 4: Investment Duration & Monitoring Analysis
 **Objective:**  
 - Study how long investors hold investments  
 - Analyze how often they monitor them  
 
-## Task 5: Reasons for Investment
+## Analysis 5: Reasons for Investment
 **Objective:**  
 - Understanding the primary motivations behind investment decisions  
 
-## Task 6: Source of Investment Information
+## Analysis 6: Source of Investment Information
 **Objective:**  
 - Analyzing where investors get their financial insights  
 
-## Task 7: Final Dashboard – Complete Investment Overview
+## Analysis 7: Final Dashboard – Complete Investment Overview
 **Objective:**  
 - Combining all insights into a single, interactive dashboard  
 
