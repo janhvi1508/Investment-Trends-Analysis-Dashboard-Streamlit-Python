@@ -17,7 +17,7 @@ Streamlit is widely used for real-time data exploration, interactive analytics, 
 ---
 
 # About the Project & My Role
-This project was completed as part of my **Data Analytics Internship at Cognifyz Technologies**.  
+This project was completed as part of my **Personal Project to enchance my skill**.  
 The objective was to analyze investment trends, financial behaviors, and investor preferences using **Python (Pandas, NumPy, Matplotlib, Plotly)** and build an **interactive dashboard in Streamlit**.
 
 ## My Responsibilities
@@ -26,8 +26,6 @@ The objective was to analyze investment trends, financial behaviors, and investo
 - **Building Interactive Dashboards** – Designed a Streamlit app for user-friendly exploration  
 - **Custom Calculations** – Implemented metrics and KPIs using Python functions  
 - **Investor Behavior Analysis** – Studied patterns based on gender, age, goals, and risk factors  
-
-This internship enhanced my expertise in **data analytics, Python scripting, and interactive app development**.  
 
 ---
 
